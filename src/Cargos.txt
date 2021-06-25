@@ -1,0 +1,26 @@
+700064 542
+500001
+500002
+25062021
+Adana to Ankara
+Adana
+400000
+At Ankara Branch
+At Cankırı Branch
+At Elazıg Branch
+At Adana Branch
+***
+700008 578
+500000
+500001
+26062021
+From Adana to Van
+Adana
+400000
+At Van Branch
+At Hatay Branch
+At Agrı Branch
+At Aydın Branch
+At Elazıg Branch
+At Adana Branch
+***

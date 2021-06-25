@@ -1,0 +1,7 @@
+100000 Admin Admin 123456
+200000 Manager Manager 123456 Adana
+300000 Employee Employee 123456 Adana
+400000 Transport Transport 123456 Adana
+500000 Customer Customer 123456 HacıfeyzullahmahallesiAslanlarCaddesiNo20
+500001 Customer Customer 123456 HacıfeyzullahmahallesiAslanlarCaddesiNo20
+500002 Customer Customer 123456 HacıfeyzullahmahallesiAslanlarCaddesiNo20
